@@ -3,10 +3,9 @@
 A responsive web platform for creating, managing, and tracking events. Built with **HTML**, **CSS (Bootstrap 5)**, and **JavaScript**, it includes organizer access control and a real-time dashboard.
 
 ## 🔗 Live Demo
-```
+
 [View it on GitHub Pages]([https://your-username.github.io/your-repo-name/](https://nishalini-ramesh.github.io/mini_project/))  
 
-```
 ---
 
 ## 📁 Features
